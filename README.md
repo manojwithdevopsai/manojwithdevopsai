@@ -49,12 +49,11 @@ Starting my DevOps journey, I discovered that the real power isn't just in manag
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-%23306998.svg?style=for-the-badge&logo=python&logoColor=ffd54f)
 ![Bash Script](https://img.shields.io/badge/Bash%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-### Databases & Middleware
+### Databases
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 ---
 
