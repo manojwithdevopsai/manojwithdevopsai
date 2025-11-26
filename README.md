@@ -76,18 +76,6 @@ Starting my DevOps journey, I discovered that the real power isn't just in manag
 
 ---
 
-## 🎓 Certifications & Continuous Learning
-
-🏆 **Microsoft Certified: Azure Administrator Associate** | Managing Azure subscriptions, resources, and infrastructure
-
-📚 **In-Progress Learning Paths:**
-- Azure Solutions Architect Expert (AZ-305)
-- Terraform Associate Certification
-- Kubernetes Certified Application Developer (CKAD)
-- DevOps culture and automation best practices
-
----
-
 ## 💼 Professional Experience
 
 ### **Senior Azure DevOps Engineer** @ Infinite Computer Solutions
@@ -136,16 +124,6 @@ Designed end-to-end CI/CD pipelines with:
 - Automated rollback mechanisms
 
 **Technologies:** GitHub Actions | Azure DevOps | Jenkins | YAML
-
----
-
-## 📊 GitHub Activity & Contributions
-
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojwithdevopsai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Manoj's Streak Stats](https://nirvak-streak-stats.vercel.app/?user=manojwithdevopsai&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojwithdevopsai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
